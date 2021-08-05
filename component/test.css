@@ -1,0 +1,58 @@
+.bloc_principale22{
+    border: 1px #ff87 solide;
+    width: 200px;
+    margin: auto;
+    height: 490px;
+    margin-top: 25px;
+    float: left;
+    
+    background-color: rgb(1, 0, 7);
+    overflow-y:scroll;
+    border-radius: 10px;
+    
+}
+#nn {
+    text-align: center;
+}
+#re{
+    margin-top: 3px;
+    width: 20px;
+    height: 20px;
+    color: black;
+    border-radius: 10px;
+}
+fieldset button{
+    color: transparent;
+    background-color: transparent;
+    border-color: transparent;
+    cursor: default;
+    border-radius: 10px;
+
+}
+#recherchefixe{
+    position: fixed;
+    border-radius: 10px;
+}
+
+#styleformaj{
+    color: rgb(195, 1, 1);
+    text-align: center;
+}
+#st{
+    margin-left: 200px;
+}
+
+#boo3{
+    width: 150px;
+    height: 50px;
+    color: rgb(255, 255, 255);
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(195, 1, 1);
+    border-radius: 10px;
+}
+b{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 36px;
+
+}

@@ -1,0 +1,38 @@
+.navbar{
+    overflow: hidden;
+    background:  rgba(9, 8, 22, 0.904);
+    color: aliceblue;
+    list-style-type: none;
+}
+.container {
+    width: 80%;
+    margin: auto;
+}
+
+
+img{
+    width: 50px;
+    height: 50px;
+    float: right;
+}
+ul{
+   
+    float: left;
+}
+ul a {
+    text-decoration: none;
+    color: aliceblue;
+    margin: 0 15px;
+}
+ul a:hover{
+    color: rgb(1, 116, 248);
+
+}
+ul a:active{
+    color: rgb(14, 194, 226);
+    
+}
+ul a:link{
+    color: aliceblue;
+}
+

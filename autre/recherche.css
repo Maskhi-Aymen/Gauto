@@ -1,0 +1,33 @@
+#recherche22{
+  
+    width: 150px;
+    height: 36px;
+    font-size: 20px;
+    padding-left: 10px;
+    border-radius: 10px;
+}
+#liste{
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 5px;
+    color: azure;
+    border: 2px rgb(195, 1, 1) solid;
+    color: azure;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    border-radius: 10px;
+}
+.blocrecherche22{
+    
+    width: 290px;
+    height: 40px;
+    background-color: rgb(195, 1, 1);border-radius: 10px;
+}
+#fi{
+    float: right;
+    padding: 5px;
+    
+}
+#imgv{
+    width: 15px;
+    height: 15px;
+}
